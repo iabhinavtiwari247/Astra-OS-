@@ -203,3 +203,6 @@ Join us in building the future of computing. Star this repo and let's make Astra
 
 *Disclaimer: Astra-OS is a conceptual project. While inspired by real technologies, it represents an ambitious vision. Contributions should align with ethical AI practices.*
 
+Author : 
+Abhinav Tiwari, (S.A.D.E) Engineer Fresher 
+Degree : B.Tech (CSE) 
