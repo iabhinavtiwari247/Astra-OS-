@@ -1,8 +1,13 @@
 # Astra-OS
+
 <img width="1200" height="960" alt="image" src="https://github.com/user-attachments/assets/21c40dea-2127-43b7-8580-9c364583453d" />
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/Astra-OS/actions)
+
 [![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/yourusername/Astra-OS/releases)
+
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](https://github.com/yourusername/Astra-OS/blob/main/CONTRIBUTING.md)
 
 ## Overview
